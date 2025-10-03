@@ -1,7 +1,5 @@
 package lambda.ex1;
 
-import lambda.Procedure;
-
 public class M1After {
 	public static void greet(String msg) {
 		System.out.println("=== 시작 ===");
